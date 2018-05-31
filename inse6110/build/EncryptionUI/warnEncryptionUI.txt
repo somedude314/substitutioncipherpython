@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named posix - imported by os, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named org - imported by pickle, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named _winreg - imported by platform, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named 'java.lang' - imported by platform, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named termios - imported by tty, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py, getpass
+missing module named grp - imported by tarfile, shutil, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py, netrc, getpass
+missing module named 'org.python' - imported by copy, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Asif\Desktop\6110\INSE6110Project_Python3\inse6110\EncryptionUI.py
